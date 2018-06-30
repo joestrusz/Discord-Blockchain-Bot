@@ -30,6 +30,7 @@ Description { A bot for retrieving blockchain information from various explorer 
 "bot_token" : "Your BOT's Token",
 "bot_web_port" : "A web Port to access the Bot Statistics",
 "discord_server_id" : "The Server ID you want the Bot to Join",
+}
 ```
 8. Once that is complete, you can now issue and update the required Node modules with `npm update`. 
 
