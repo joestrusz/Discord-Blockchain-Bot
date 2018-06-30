@@ -5,7 +5,7 @@ Author { Joe Strusz }
 Description { A bot for retrieving blockchain information from various explorer APIs. }
 ```
 ## Features
-- [x] Stand Alones
+- [x] Stand Alone, Self Host Bot
 - [x] Linux/Windows/OSX Support
 - [x] Updateable Bootstrap from GitHub
 - [x] Get Bot Host Statistics (CPU, Memory, other Resources and Process Lists)
