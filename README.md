@@ -16,7 +16,7 @@ Description { A bot for retrieving blockchain information from various explorer 
 
 ## Requirements
 * Ubuntu 16.04 or Greater
-* Node.js 10 or Greater
+* Node.js 8.x or Greater
 * Basic Node, Blockchain, and Linux Knowledge
 
 
