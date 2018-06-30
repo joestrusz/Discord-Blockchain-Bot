@@ -4,16 +4,22 @@
 Author { Joe Strusz }
 Description { A bot for retrieving blockchain information from various explorer APIs. }
 ```
+
+
 ## Features
 - [x] Stand Alone, Self Host Bot
 - [x] Linux/Windows/OSX Support
 - [x] Updateable Bootstrap from GitHub
 - [x] Get Bot Host Statistics (CPU, Memory, other Resources and Process Lists)
 
+
+
 ## Requirements
 * Ubuntu 16.04 or Greater
 * Node.js 10 or Greater
 * Basic Node, Blockchain, and Linux Knowledge
+
+
 
 ## Installation
 1. Decide where you want to store the files. For all of my examples I use `/storage` in the root filesystem. If you use a different location, replace the the lines below with that location.
@@ -35,6 +41,8 @@ Description { A bot for retrieving blockchain information from various explorer 
 > You can go back after the bot is online, and add/fix the rest. Such as adding the API keys and Bot title, nickname, and support ticket channel information.
 
 8. Once that is complete, you can now issue and update the required Node modules with `npm update`. 
+
+
 
 ## Help and Contact Information
 > Website: https://www.joestrusz.com
