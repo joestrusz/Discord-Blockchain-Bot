@@ -16,6 +16,7 @@ Description { A bot for retrieving blockchain information from various explorer 
 * Basic Node, Blockchain, and Linux Knowledge
 
 ## Installation
+1. Decide where you want to store the files. For all of my examples I use `/storage` in the root filesystem. 
 
 ## Help and Contact Information
 > Website: https://www.joestrusz.com
