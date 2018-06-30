@@ -1,2 +1,4 @@
 # Discord-Blockchain-Bot
-> by Joe Strusz **|** https://www.joestrusz.com **|** contact@joestrusz.com
+> by Joe Strusz 
+
+> **|** https://www.joestrusz.com **|** contact@joestrusz.com
