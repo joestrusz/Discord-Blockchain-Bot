@@ -4,5 +4,7 @@
 Author { Joe Strusz }
 Description { A bot for retrieving blockchain information from various explorer APIs. }
 ```
-> https://www.joestrusz.com | https://discord.gg/3RaHZFj
+> Website: https://www.joestrusz.com
+
+> Discord: https://discord.gg/3RaHZFj
 
