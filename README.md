@@ -23,9 +23,13 @@ Description { A bot for retrieving blockchain information from various explorer 
 5. We will need to copy the example config to the actual config location with: `cp config.json.example config.json`.
 6. Now we need to open this file and change some basic options. I use nano editor: `nano config.json`.
 7. You need to replace the following items, minimal to get the bot working:
-```css
-BOT_TOKEN { Your Bot's Token }
-BOT_SERVER_ID { The ID of the Server you want the Bot to Join }
+```json
+{
+"bot_prefix" : "Your Bot's Token",
+"bot_admin_id" : "Your User's Discord ID",
+"bot_token" : "Your BOT's Token",
+"bot_web_port" : "A web Port to access the Bot Statistics",
+"discord_server_id" : "The Server ID you want the Bot to Join",
 ```
 8. Once that is complete, you can now issue and update the required Node modules with `npm update`. 
 
