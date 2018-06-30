@@ -1,4 +1,4 @@
-![Logo](https://www.joestrusz.com/assets/uploads/system/logo_small.png)
+![Logo](https://www.joestrusz.com/images/logo_small.png)
 # Discord-Blockchain-Bot
 > https://www.joestrusz.com
 ```css
