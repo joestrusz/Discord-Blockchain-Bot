@@ -22,7 +22,7 @@ Description { A bot for retrieving blockchain information from various explorer 
 
 
 ## Installation
-1. Decide where you want to store the files. For all of my examples I use `/storage` in the root filesystem. If you use a different location, replace the the lines below with that location.
+1. Decide where you want to store the files. For all of my examples I use `/storage` in the root filesystem. 
 2. Login as root, and create our storage location: `mkdir /storage` and now change to that location with: `cd /storage`
 3. Checkout this repository with: `git clone --recursive https://github.com/joestrusz/discord-blockchain-bot.git`
 4. Now, change into our newly check out source directory with: `cd /storage/discord-blockchain-bot` 
@@ -38,7 +38,6 @@ Description { A bot for retrieving blockchain information from various explorer 
 "discord_server_id" : "The Server ID you want the Bot to Join",
 }
 ```
-> You can go back after the bot is online, and add/fix the rest. Such as adding the API keys and Bot title, nickname, and support ticket channel information.
 
 8. Once that is complete, you can now issue and update the required Node modules with `npm update`. 
 
