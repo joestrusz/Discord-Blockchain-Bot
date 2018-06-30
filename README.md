@@ -10,6 +10,8 @@ Description { A bot for retrieving blockchain information from various explorer 
 - [x] Updateable Bootstrap from GitHub
 - [x] Get Bot Host Statistics (CPU, Memory, other Resources and Process Lists)
 
+
+## Help and Contact Information
 > Website: https://www.joestrusz.com
 
 > Discord: https://discord.gg/3RaHZFj
