@@ -31,6 +31,7 @@ Description { A bot for retrieving blockchain information from various explorer 
 "bot_web_port" : "A web Port to access the Bot Statistics",
 "discord_server_id" : "The Server ID you want the Bot to Join",
 }
+> You can go back after the bot is online, and add/fix the rest. Such as adding the API keys and Bot title, nickname, and support ticket channel information.
 ```
 8. Once that is complete, you can now issue and update the required Node modules with `npm update`. 
 
