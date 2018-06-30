@@ -1,4 +1,4 @@
-https://www.joestrusz.com/assets/uploads/system/site-logo.png
+![Logo](https://www.joestrusz.com/assets/uploads/system/site-logo.png)
 # Discord-Blockchain-Bot
 > by Joe Strusz 
 
