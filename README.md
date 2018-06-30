@@ -10,6 +10,12 @@ Description { A bot for retrieving blockchain information from various explorer 
 - [x] Updateable Bootstrap from GitHub
 - [x] Get Bot Host Statistics (CPU, Memory, other Resources and Process Lists)
 
+## Requirements
+* Ubuntu 16.04 or Greater
+* Node.js 10 or Greater
+* Basic Node and Linux Knowledge
+
+## Installation
 
 ## Help and Contact Information
 > Website: https://www.joestrusz.com
