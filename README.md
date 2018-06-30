@@ -1,6 +1,6 @@
 ![Logo](https://www.joestrusz.com/assets/uploads/system/logo_small.png)
 # Discord-Blockchain-Bot
-> by Joe Strusz 
+> https://www.joestrusz.com
 ```css
 Author { Joe Strusz }
 Website { https://www.joestrusz.com }
