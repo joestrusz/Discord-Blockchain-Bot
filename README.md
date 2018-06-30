@@ -5,10 +5,10 @@ Author { Joe Strusz }
 Description { A bot for retrieving blockchain information from various explorer APIs. }
 ```
 ## Features
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [x] Stand Alones
+- [x] Linux/Windows/OSX Support
+- [x] Updateable Bootstrap from GitHub
+- [x] Get Bot Host Statistics (CPU, Memory, other Resources and Process Lists)
 
 > Website: https://www.joestrusz.com
 
