@@ -1,13 +1,13 @@
 {
-  "name": "NodeDirt-Disco",
+  "name": "Discord-Blockchain-Bot",
   "version": "1.0.0",
-  "description": "Minecraft Server Discord Companion",
-  "main": "bot.js",
+  "description": "Does Blockchain Stuff for Discord",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bot.js"
+    "start": "node main.js"
   },
-  "author": "NodeDirt",
+  "author": "Joe Strusz",
   "license": "CC-BY-NC-SA-4.0",
   "dependencies": {
     "bufferutil": "^3.0.3",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nodedirt/nodedirt-disco.git"
+    "url": "https://github.com/joestrusz/discord-blockchain-bot.git"
   }
 }
